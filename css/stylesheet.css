@@ -1,0 +1,42 @@
+td{
+    border: 1px solid black;
+}
+
+table{
+    border: 1px solid black; 
+}
+
+.paintedRow{
+    background-color: black;
+    color: white;
+}
+
+.formfield{
+    display: block;  
+}
+
+.formarea{
+    
+    display: block;
+}
+
+#detailright{
+    float: right;
+    width: 50%;
+    height: 500px;
+}
+
+#detailleft{
+    float: left;
+    width: 30%;
+    height: 500px;
+}
+
+.align-center{
+    width: 50%;
+    margin: 0px auto;
+}
+
+h1{
+    text-align: center;
+}

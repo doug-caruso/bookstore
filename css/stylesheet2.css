@@ -1,0 +1,59 @@
+tr:hover{
+    background-color: brown;
+    color: white;
+}
+
+td{
+    border: 1px solid black;
+}
+
+table{
+    border: 1px solid black;
+    border-color: blue;
+    border-radius: 10px;
+
+}
+
+.paintedRow{
+    background-color: blue;
+    color: white;
+}
+
+.formfield{
+    border-radius: 10px;
+    display: block;  
+    border-color: blue;
+}
+
+.formlabel{
+    color: blue;
+    font-family: inherit;
+}
+
+.formarea{
+    display: block;
+    border-radius: 10px;
+    border-color: blue;
+}
+
+#detailright{
+    text-align: center;
+    border: 1px solid black;
+}
+
+#detailleft{
+    text-align: center;
+}
+
+.title{
+    text-decoration: underline
+}
+
+.price{
+    background-color: red;
+    color: yellow;
+}
+
+h1{
+    font-family: fantasy;
+}
