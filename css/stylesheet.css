@@ -6,6 +6,11 @@ table{
     border: 1px solid black; 
 }
 
+tr:hover{
+    background-color: black;
+    color: white;
+}
+
 th{
     background-color: black;
     color: white;
